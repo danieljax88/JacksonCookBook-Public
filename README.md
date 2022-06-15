@@ -6,7 +6,7 @@ Main Features:
 - Add/Edit Recipes - Authenticated users have the ability to add / edit recipes (I kept this locked down as this is not a community contribution website)
 - Meals for the Week Generator - It will randomly choose 7 recipes from the website, with an option to shuffle
 - Filtering - the ability to filter recipes based on their Category
-- Multi platform - The app is designed in a way that presents the page differently depending on the resolution size 
+- Multi platform - The app is designed in a way that presents the page differently depending on the resolution size   
 You Can view the first non beta iteration here:  
 [![View on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/the-jackson-cookbook-c8cgvm)
 
